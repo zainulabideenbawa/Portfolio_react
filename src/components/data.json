@@ -1,0 +1,202 @@
+{
+    "Data": {
+        "name": "Zain Ul Abideen",
+        "age": "26",
+        "phone": "+601127464636",
+        "email": "zainulabideenbawa@gmail.com",
+        "address": "Bandar Sunway, Selangor, Malaysia",
+        "work": "Web Developer",
+        "facebook_link": "https://www.facebook.com/zainulabideenbawa",
+        "linkedin_link": "https://www.facebook.com/zainulabideenbawa",
+        "github_link": "https://github.com/repo01",
+        "medium_link": "https://medium.com/me/stories/public",
+        "description": "I am Junior Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming to UX and PWA. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools. Just recently I've started my first serious web dev job, working in a team building progressive web apps. So far I love it!",
+        "resume": "Innovative Web developer offering a year of experience in the Front-end development lifecycle - from concept through delivery of next-generation applications and customizable solutions. Expert in advanced development methodologies, tools, and processes contributing to the design and rollout of cutting-edge web applications. Known for excellent troubleshooting skills - able to analyze code and engineer well-researched, cost-effective and responsive solutions.",
+        "education": [
+            {
+                "institute": "Victoria University",
+                "date": "2017 - current",
+                "degree": "MBA(Enterprise Resource Planning Systems)"
+            },
+            {
+                "institute": "Sunway University/ Lancaster University ",
+                "date": "2013 - 2015",
+                "degree": "B.Sc(Hons) Computer Science | CGPA 3.8"
+            },
+            {
+                "institute": "Internatinal School of Studies",
+                "date": "2011 - 2012",
+                "degree": "A level Science Subjects"
+            }
+        ],
+        "employment": [
+            {
+                "employer": "KOMMUDI",
+                "date": "06. 2017 - Current",
+                "description": "CoFounder | Tech Lead"
+            },
+            {
+                "employer": "HAFTA PRIVATE LIMITED",
+                "date": "04. 2016 – 12. 2016",
+                "description": "Web Application Developer | Planning and Improving product"
+            },
+            {
+                "employer": "TRUPCO SDN BHD",
+                "date": "12. 2015 – 03. 2016",
+                "description": "Software Developer"
+            },
+            {
+                "employer": "SINTHAMANI DIVINE LIFE ASHRAM",
+                "date": "01. 2015 – 03. 2015",
+                "description": "Trainer/Tech Support"
+            }
+        ],
+        "general_skills": [
+            {
+                "skill": "HTML | CSS | SCSS | Bootstrap | Materialize.css",
+                "value": 80
+            },
+            {
+                "skill": "Javascript | ES6/ES7",
+                "value": 90
+            },
+            {
+                "skill": "Python",
+                "value": 90
+            },
+            {
+                "skill": "React | Redux",
+                "value": 90
+            },
+            {
+                "skill": "ExpressJs | Flask Framework",
+                "value": 85
+            },
+            {
+                "skill": "Git | Github",
+                "value": 90
+            },
+            {
+                "skill": "MongoDB",
+                "value": 90
+            },
+            {
+                "skill": "SQL",
+                "value": 90
+            },
+            {
+                "skill": "Firebase",
+                "value": 90
+            },
+            {
+                "skill": "Google Cloud",
+                "value": 85
+            }
+        ],
+        "other_skills": [
+            {
+                "skill": "Docker",
+                "value": 85
+            },
+            {
+                "skill": "Kubernetes",
+                "value": 80
+            },
+            {
+                "skill": "Wordrpress | Squarespace | Moodle",
+                "value": 90
+            },
+            {
+                "skill": "Facebook API | Twitter API | Twillio API | Stripe API",
+                "value": 85
+            }
+        ],
+        "OtherSkills": [
+            {
+                "title": "Data Science",
+                "list": [
+                    "Matplot.lib",
+                    "ggplot",
+                    "statsmodels.py",
+                    "Scikit Learn",
+                    "Time Series Analysis",
+                    "Tensorflow",
+                    "Keras",
+                    "Sentiment Analysis",
+                    "Web Scraping"
+                ]
+            },
+            {
+                "title": "Google Applications",
+                "list": [
+                    "Google Analytics",
+                    "Google Adwords",
+                    "Google Apps script",
+                    "Google Sites",
+                    "Google Cloud"
+                ]
+            },
+            {
+                "title": "Languages",
+                "list": [
+                    "java",
+                    "C++",
+                    "javafx",
+                    "JavaScript",
+                    "NodeJS",
+                    "R",
+                    "google app script",
+                    "Python",
+                    "Matlab"
+                ]
+            },
+            {
+                "title": "Others",
+                "list": [
+                    "Microsoft Office",
+                    "adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Adobe InDesign",
+                    "Dialogueflow SAS",
+                    "RStudio",
+                    "Python Notebooks",
+                    "Api.ai",
+                    "SAP CRM web platform",
+                    "Docker",
+                    "Sap",
+                    "Google Codelabs"
+                ]
+            }
+        ],
+        "portfolio": [
+            {
+                "photo": "kommudi_pwa.png",
+                "title": "MOBILE AND DESKTOP APP (PWA) FOR KOMMUDI",
+                "description": "A simple Educational website, implementing a lot of PWA love. A Progressive Web App (PWA) is a web app that uses modern web capabilities to deliver an app-like experience to users.",
+                "tech": [
+                    {
+                        "title": "HTML"
+                    },
+                    {
+                        "title": "CSS"
+                    },
+                    {
+                        "title": "REACT"
+                    },
+                    {
+                        "title": "REDUX"
+                    },
+                    {
+                        "title": "FIREBASE"
+                    },
+                    {
+                        "title": "MONGODB"
+                    },
+                    {
+                        "title": "AUTH"
+                    }
+                ]
+            }
+        ]
+    }
+}
